@@ -1,0 +1,48 @@
+
+VEHICLE INSURANCE POLICY
+
+Policy Name: Comprehensive Vehicle Insurance
+Policy Type: Comprehensive
+
+1. POLICY COVERAGE
+
+This policy covers accidental damage to the insured vehicle,
+including collision, overturning and external accidental damage.
+
+2. THIRD PARTY COVERAGE
+
+The policy covers legal liability towards third parties
+for accidental injury or property damage, subject to policy terms.
+
+3. POLICY PERIOD
+
+Coverage is valid only between the policy start date
+and policy expiry date.
+
+4. DEDUCTIBLE
+
+A compulsory deductible of Rs. 5000 applies to
+each eligible own-damage claim.
+
+5. EXCLUSIONS
+
+The policy does not cover:
+- Normal wear and tear.
+- Mechanical or electrical breakdown without an insured event.
+- Damage caused while driving under the influence of alcohol.
+- Accidents occurring outside the policy period.
+
+6. CLAIM REQUIREMENTS
+
+The policyholder must:
+- Notify the insurance company about the accident.
+- Submit the claim form.
+- Provide vehicle registration and driving licence details.
+- Submit repair estimates and supporting documents.
+
+7. CLAIM SETTLEMENT
+
+The payable claim amount is calculated based on
+admissible repair costs after deducting the applicable
+deductible, depreciation and other policy adjustments.
+
