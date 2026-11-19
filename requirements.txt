@@ -7,3 +7,4 @@ langgraph
 boto3
 chromadb
 typing-extensions
+langsmith
